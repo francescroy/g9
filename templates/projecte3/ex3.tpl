@@ -1,6 +1,6 @@
 {$modules.head}
 
-    <form action="http://default.dev/ex3b/0" method="POST">
+    <form action="http://g9.dev/ex3b/0" method="POST">
         <fieldset>
 
             <legend>Instrumentos</legend>
